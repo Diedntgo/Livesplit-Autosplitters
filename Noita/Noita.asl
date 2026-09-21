@@ -3,7 +3,7 @@ state("noita") {
 	uint loadingAnimation : 0xE04B94;
 	int sampoUsed : 0xE249F0, 0x28, 0x4C, 0x0, 0x10;
 	int isPolymorphed : 0xE2491C, 0x28, 0x98;
-    int isDead : 0xE08784;
+	int isDead : 0xE08784;
 }
 
 startup {
